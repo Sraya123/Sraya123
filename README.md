@@ -1,4 +1,4 @@
-### Welcome, I'm Srayashi Chowdhury 👋
+### Welcome 👋, I'm Srayashi Chowdhury 
 
 Here are some ideas to get you started:
 
@@ -23,6 +23,11 @@ Here are some ideas to get you started:
 <a href="https://www.java.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a> 
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
 
+<a href="https://github.com/Sraya123">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sraya123&theme=buefy&hide_langs_below=1" />
+</a>
+<a href="https://github.com/Sraya123">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sraya123&show_icons=true&theme=buefy&line_height=27" alt="Srayashi Chowdhury's github stats"/>
+</a>
 
 
-![Srayashi Chowdhury's github stats](https://github-readme-stats.vercel.app/api?username=Sraya123&theme=buefy&show_icons=true)
