@@ -1,7 +1,5 @@
 ### Welcome 👋, I'm Srayashi Chowdhury 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Front-end Development.
 - 🌱 I’m currently learning HTML5 and CSS3.
 - 👯 I’m looking to collaborate on Front-end Projects. 
