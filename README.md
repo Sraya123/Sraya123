@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Front-end Projects.
 - 🤔 I’m looking for help with 
 - 💬 Ask me about Tech related stuffs.
-- 📫 How to reach me: [Linkedin : @Srayashi](https://www.linkedin.com/in/srayashi-chowdhury-630209191/],[Codechef : @Sraya](https://www.codechef.com/users/blacklash_01) 
+- 📫 How to reach me: [Linkedin : @Srayashi](https://www.linkedin.com/in/srayashi-chowdhury-630209191/)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
