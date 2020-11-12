@@ -6,7 +6,7 @@
 - 💬 Ask me about Tech related stuffs.
 - 📫 How to reach me: [Linkedin : @Srayashi](https://www.linkedin.com/in/srayashi-chowdhury-630209191/)
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love to cook and dance at the same time.
+- ⚡ Fun fact: I can cook and dance at the same time.
 
 **Languages and Tools:** 
 
