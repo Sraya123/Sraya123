@@ -5,7 +5,7 @@
 - 💬 Ask me about Tech related stuffs.
 - 📫 How to reach me: [Linkedin : @Srayashi](https://www.linkedin.com/in/srayashi-chowdhury-630209191/)
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love to read and write poetry.
+
 
 **Languages and Tools:** 
 
